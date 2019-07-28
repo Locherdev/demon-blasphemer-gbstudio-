@@ -1,2 +1,10 @@
-﻿Henke: 	àá ðñ
-Kindle: âã òó
+﻿Henke: 	 àá ðñ
+Kindle:  âã òó
+Inzaghi: äå ôõ
+
+----------------
+Potion:  °
+Florett: ±
+Poison:	 ²
+Heart:	 ³
+Holy: 	 ´
