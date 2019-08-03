@@ -1,10 +1,11 @@
 ﻿Henke: 	 àá ðñ
 Kindle:  âã òó
-Inzaghi: äå ôõ
-Flora:	 æç ö÷
+Inzaghi: æç ö÷
+Flora:	 äå ôõ
 ----------------
 Potion:  °
 Florett: ±
 Poison:	 ²
 Heart:	 ³
 Holy: 	 ´
+Question:µ
