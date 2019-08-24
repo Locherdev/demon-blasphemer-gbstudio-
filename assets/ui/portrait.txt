@@ -1,7 +1,7 @@
 ﻿Henke: 	 àá ðñ
 Kindle:  âã òó
 Inzaghi: æç ö÷
-Flora:	 äå ôõ
+Markov:	 äå ôõ
 ----------------
 Potion:  °
 Florett: ±
