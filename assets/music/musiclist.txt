@@ -1,8 +1,0 @@
-title
-tension
-soul
-heart
-boss 
-end 
-feuer
-phoenix
