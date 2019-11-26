@@ -37,7 +37,3 @@ Demonic beings are unable to utilize human chants in order to work magic. Instea
 | Suffix      | Determines the spell's lasting effect on the battle and can influence the effected |
 
 The player is urged to find ways to populate the initial small repertoire of demonic letters.
-
-# The Interactive Map System
-
-The map system is a highly potent system that relies on the player uncovering the playable environment and slowly filling the blanks of the initially black map. The map screen can be traversed as to gain valuable information on specific map screens.
